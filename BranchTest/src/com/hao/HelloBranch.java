@@ -8,5 +8,6 @@ public class HelloBranch {
 		System.out.println("this is master branch 3");
 		System.out.println("this is master branch 4");
 		System.out.println("branch 5");
+		System.out.println("branch 6");
 	}
 }
