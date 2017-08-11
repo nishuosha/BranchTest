@@ -15,4 +15,8 @@ public class HelloBranch {
 		System.out.println("remote add some");
 		System.out.println("remote master change");
 	}
+	
+	public void sayWorld() {
+		System.out.println("world");
+	}
 }
