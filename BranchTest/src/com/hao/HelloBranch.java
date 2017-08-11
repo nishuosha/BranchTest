@@ -19,4 +19,8 @@ public class HelloBranch {
 	public void sayWorld() {
 		System.out.println("world");
 	}
+	
+	public void sayHello() {
+		System.out.println("Hello");
+	}
 }
