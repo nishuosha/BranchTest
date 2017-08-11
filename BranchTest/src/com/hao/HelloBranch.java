@@ -4,6 +4,6 @@ public class HelloBranch {
 
 	public static void main(String[] args) {
 		System.out.println("first master commit");
-		System.out.println("remote update");
+		System.out.println("remote update remote update");
 	}
 }
