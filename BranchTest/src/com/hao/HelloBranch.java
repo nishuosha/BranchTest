@@ -3,6 +3,7 @@ package com.hao;
 public class HelloBranch {
 
 	public static void main(String[] args) {
-		System.out.println("第一次master 提交");
+		System.out.println("碌脷脪禄麓脦master 脤谩陆禄");
+		System.out.println("remote 淇敼");
 	}
 }
