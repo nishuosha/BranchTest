@@ -13,6 +13,6 @@ public class HelloBranch {
 		System.out.println("remote xiugaimouxiedongxierbushitianjia remote update");
 		System.out.println("local add some");
 		System.out.println("remote add some");
-		System.out.println("local test change");
+		System.out.println("remote master change");
 	}
 }
